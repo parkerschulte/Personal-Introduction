@@ -5,7 +5,7 @@
             Introducing Parker
                 <meta charset="utf-8">
     </head>
-<body>
+<body> 
         <p> My favorite culture that I am not native to would be Bosnian culture, I find them to be very unique and loving</p>
         <p> Two or more historical figures that I can relate to would happen to be Charles Darwin, simply because I have always had a quesitoning attitude, 
             and a hope to create something with meaning. Another historical figure that I can relate to would be William Shakspere, due to his desire for 
