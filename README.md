@@ -1,5 +1,5 @@
 # Personal-Introduction
-<!DOCTYPE html>
+
 <html lang="en">
     <head>
             Introducing Parker
