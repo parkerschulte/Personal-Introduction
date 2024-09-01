@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-            <title>Introducing Parker</title>
+            Introducing Parker
                 <meta charset="utf-8">
     </head>
 <body>
